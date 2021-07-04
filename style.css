@@ -1,4 +1,5 @@
-body{
+@media queries and (max-width:1200px){
+    body{
     font-family: 'Open Sans', sans-serif;
     Font-size: 14px;
     font-weight: 700;
@@ -321,6 +322,7 @@ footer{
     border-radius:50%;
     padding: 5% 0%;
     border: 1px solid white
+}
 }
 
 
