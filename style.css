@@ -209,7 +209,7 @@
     
     .contact{
         position: relative;
-        width: 50% ;
+        width: 100vh;
         color:white;
         background-color: hsl(219, 30%, 18%);
         padding:1%;
@@ -233,7 +233,7 @@
     
     input[type=email],
     .contact a{
-        padding: 1em 6em;
+        padding: 1em 4em;
         border-radius: 30px;
         margin-left: 10%;
     }
