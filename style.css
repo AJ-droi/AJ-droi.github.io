@@ -536,12 +536,12 @@
     
     .contact{
         position: relative;
-        width: 40vh;
+        width: 35vh;
         height: 31vh;
         color:white;
         background-color: hsl(219, 30%, 18%);
         padding:3%;
-        margin-left: 5%;
+        margin-left: 15%;
         margin-bottom: -26%;
         z-index: 2;
     }
